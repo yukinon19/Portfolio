@@ -1,0 +1,32 @@
+@font-face{
+    font-family: tommy;
+    src: url(../fonts/MADE-TOMMY-Regular.otf);
+    }
+
+@font-face {
+    font-family: horizon;
+    src: url(../fonts/horizon.otf);
+}
+
+.container {
+  max-width: 800px;
+  margin: 20px auto;
+  overflow: hidden;
+}
+
+.column {
+  float: left;
+  width: 50%;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.description {
+  padding: 20px;
+}
+
+.portfolio
